@@ -1,0 +1,119 @@
+body{background-image: url("Test_AV.png");
+    background-repeat: repeat-x;
+    margin: 1;
+    padding: 1;
+}
+
+
+H1{ float: center;
+    width: 1100px;
+    margin: auto;
+    padding: 0px;
+	text-align: center;
+	color: red;
+	font-family: sans-serif;
+	outline: groove;
+	outline-style: outset;
+	outline-color: #F78181;
+	background-color: lightblue;
+	font-size: 5em;
+}
+img{float: left;
+    width: 95px;
+	outline: groove;
+	outline-style: outset;
+	outline-color: #F78181;
+
+}
+.container
+{
+	float: center;
+    width: 300px;
+    margin: auto;
+    padding: 3px;
+    background-color: red;
+	text-align: center;
+	color: white;
+	font-size: 2em; 
+	font-family: sans-serif;
+	font-style: bold;
+}
+
+table, th, td 
+{
+ 	border: 1px solid black;
+	background-color: white;
+	font-family: sans-serif;
+	text-align: center;
+	color: red;
+	font-size: 1em; 
+}
+table 
+{
+    width: 100%;
+}
+th {
+    height: 50px;
+}
+
+#left
+{
+	background-color: white;
+	float: left;
+	width: 50%;
+	height: 100px
+	font-size: 1em; 
+	font-family: sans-serif;
+	text-align: left;
+	color: red;
+}
+#right
+{
+	background-color: tomato;
+	float: right;
+	width: 50%;
+	height: 100px
+	font-size: 1em; 
+	font-family: sans-serif;
+}
+.u_list {
+	color:white;
+}
+#five 
+{ color: black
+}
+.container_2
+{
+	float: left;
+    width: 300px;
+    margin: auto;
+    padding: 3px;
+    background-color: red;
+	text-align: center;
+	color: white;
+	font-size: 2em; 
+	font-family: sans-serif;
+	font-style: bold;
+}
+#paerters
+{
+	background-color: white;
+	float: left;
+	width: 100%;
+	height: 100px
+	color: white;
+	font-size: 1em; 
+	font-family: sans-serif;
+}
+#HP
+{
+	color:red;
+}
+
+#spec
+{
+	float: left;
+	color: white;
+	font-family: serif;
+	font-size: 2em;
+}
